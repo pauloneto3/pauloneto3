@@ -1,12 +1,16 @@
 <h1 align="left">Olá 👋, Sou Paulo</h1>
 <h3 align="left">Estudante de Programação 👨🏻‍💻</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div><h3 align="left">Contatos:</h3>
 <p align="left">
 <div> <a href="https://github.com/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-64.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" target="_blank"></a>
-<a href="pn.oliveira36+github@hotmail.com" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png"></a>
+<a href="pn.oliveira36+github@hotmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png"></a>
 <a href="https://instagram.com/pn.kim66" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" target="_blank"></a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
@@ -23,7 +27,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estatisticas</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Estatisticas</h3>
 
 <div align="center">
 <a href="https://github.com/pauloneto3">
