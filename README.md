@@ -7,7 +7,7 @@
 
 </div><h3 align="left">Contatos:</h3>
 <p align="left">
-<div> <a href="https://github.com/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-64.png" target="_blank"></a>
+<div> <a href="https://github.com/pauloneto3" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" target="_blank"></a>
 <a href="pn.oliveira36+github@hotmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png"></a>
 <a href="https://instagram.com/pn.kim66" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" target="_blank"></a></p>
