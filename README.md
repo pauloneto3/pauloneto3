@@ -7,17 +7,14 @@
 
 </div><h3 align="left">Contatos:</h3>
 <p align="left">
-<div> <a href="https://github.com/pauloneto3" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" target="_blank"></a>
-<a href="pn.oliveira36+github@hotmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-64.png"></a>
-<a href="https://instagram.com/pn.kim66" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" target="_blank"></a></p>
+<div> <a href="https://github.com/pauloneto3" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png" target="_blank" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/pauloneto3" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" target="_blank" width="40" height="40"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/></p>
 
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
